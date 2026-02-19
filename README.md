@@ -2,4 +2,4 @@ In this project, I use a variety of visualisation techniques to gain a statisitc
 
 Using random forrest and linear regression, I have created two machine learning algorithims that predicts the goals scored by each team. 
 
-I combined the statistics that I gathered with the prediction from machine learing models to predict the outcome football match's. so far, it's predicting at a 70% success rate.
+I combined the statistics that I gathered with the prediction from machine learing models to predict the outcome football match's. so far, it's predicting at a 70% success rate. (Last season 2024/2025)
